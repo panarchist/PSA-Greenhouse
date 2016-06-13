@@ -4,6 +4,8 @@ This mod requires USI-LS and its prerequisites (specifically, ModuleManager).
 
 USI-LS config format and references are GPL v3 attributed to Bob Palmer aka "RoverDude", who I thank profusely for the mod this mod builds on.
 
+The moniker "Panarchist Space Alliance" and related branding is All Rights Reserved Matthew P. Picio.
+
 License: GPL V3 except for the Greenhouse model and textures, which can be considered public domain 
 (Ref: http://forum.kerbalspaceprogram.com/index.php?/topic/40366-habhub-and-other-strange-things/&page=8
 
