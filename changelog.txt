@@ -1,0 +1,13 @@
+Changelog.txt
+
+2016-06-14 : v1.1.2.4
+---------------------
+- Updated config files  for USI-LS, created MM config for UKS
+
+2016-06-13 : v1.1.2.3
+---------------------
+- Added MM config files to add support for KeepFit, USI-LS, and USI-UKS.
+
+2016-06-12 : v1.1.2
+---------------------
+- Initial Release
