@@ -1,8 +1,11 @@
 Changelog.txt
 
-2016-06-15 : v1.1.2.4
+2016-06-16 : v1.1.2.4
 ---------------------
-- Updated / Rebalanced config files for USI-LS, created MM config for UKS
+- Updated / Rebalanced config files for USI-LS
+- Created MM config for UKS
+- Created MM config for CLS
+- Removed extraneous files which should not have been in the release
 
 2016-06-13 : v1.1.2.3
 ---------------------
