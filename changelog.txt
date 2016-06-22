@@ -1,5 +1,9 @@
 Changelog.txt
 
+2016-06-21 : v1.1.3.0
+---------------------
+- Updated version number for KSP 1.1.3
+
 2016-06-16 : v1.1.2.4
 ---------------------
 - Updated / Rebalanced config files for USI-LS
